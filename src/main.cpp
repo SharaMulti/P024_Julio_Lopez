@@ -1,7 +1,7 @@
 /* Amerike university
      Author: Julio López
-     Date: 11/04/25
-     Practice #: 22
+     Date: 25/04/25
+     Practice #: 24
      Description: This program shall use constructors to show data*/
  
      #include <iostream>
